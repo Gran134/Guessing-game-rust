@@ -1,0 +1,1 @@
+C:\Users\Sindre\OneDrive\ -\ Trøndelag\ fylkeskommune\Dokumenter\programering\rust\Guessing-game-rust\ggr\target\debug\ggr.exe: C:\Users\Sindre\OneDrive\ -\ Trøndelag\ fylkeskommune\Dokumenter\programering\rust\Guessing-game-rust\ggr\src\main.rs
