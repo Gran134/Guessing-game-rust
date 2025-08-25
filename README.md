@@ -2,4 +2,4 @@
 
 ## To do list
 
-- [ ] make it compare integers insted of strings :]
+- [x] make it compare integers insted of strings :]

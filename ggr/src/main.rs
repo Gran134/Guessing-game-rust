@@ -28,7 +28,7 @@ fn main() {
         };
 
         if life <= 0 {
-            println!("You lost!");
+            println!("You lost! The number is {}", _random_number);
             running = false
         };
     };
